@@ -1,0 +1,26 @@
+:root {
+    --foundation-color: linear-gradient(
+          180deg,
+          hsl(209deg 34% 36%) 0%,
+          hsl(209deg 33% 38%) 7%,
+          hsl(209deg 33% 40%) 14%,
+          hsl(209deg 32% 43%) 21%,
+          hsl(209deg 32% 45%) 29%,
+          hsl(209deg 32% 47%) 36%,
+          hsl(209deg 31% 49%) 43%,
+          hsl(209deg 32% 51%) 50%,
+          hsl(209deg 35% 53%) 57%,
+          hsl(209deg 38% 56%) 64%,
+          hsl(209deg 41% 58%) 71%,
+          hsl(209deg 45% 60%) 79%,
+          hsl(209deg 49% 62%) 86%,
+          hsl(209deg 53% 65%) 93%,
+          hsl(208deg 59% 67%) 100%
+        );
+}
+
+:root {
+   --card-color: #ADF7B6;
+  --button-color: #FCF5C7;
+  --text-background-color: #FFC09F;
+}
